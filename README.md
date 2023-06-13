@@ -22,5 +22,5 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
   
 
-<h2> Connect with me <img src='[https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif](https://www.linkedin.com/in/david-naranjo-4a979722b/)' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<h2> Connect with me <img src='https://www.linkedin.com/in/david-naranjo-4a979722b/' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/david-naranjo-4a979722b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
